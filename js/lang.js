@@ -1261,6 +1261,13 @@ l = {
                             DE: "Antik",
                             CN: "古董",
                         },
+                        rd: {
+                            KR: "Rien Doll",
+                            JP: "Rien Doll",
+                            EN: "Rien Doll",
+                            DE: "Rien Doll",
+                            CN: "Rien Doll",
+                        },
                         frame: {
                             KR: "프레임",
                             JP: "フレーム",
